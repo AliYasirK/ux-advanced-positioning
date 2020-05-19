@@ -1,1 +1,19 @@
 /* Add your CSS Below */
+#ThreeA {
+    position: fixed;
+    left: 1150px;
+    top: 470px;
+    bottom: 0;
+  }
+  
+  #TwoC {
+    position: absolute;
+    left: 232px;
+    bottom: 147px;
+  }
+  
+  #oneB {
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+  }
